@@ -1,0 +1,2 @@
+C:\Users\shulg\Downloads\TcpStream\x64\Debug\TcpConnection.dll
+C:\Users\shulg\Downloads\TcpConnection\x64\Debug\TcpConnection.dll
